@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+ }
+ h1 {
+     text-align: center;
+     font-size: xx-large;
+     border-style: solid;
+     border-left-color: blue;
+     border-top-color: red;
+     border-bottom-color: green;
+     border-right-color: yellow ;
+ }
